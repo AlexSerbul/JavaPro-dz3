@@ -1,0 +1,5 @@
+# Project exclude paths
+/.idea/
+/pom.xml
+/src/test/
+/src/main/resources/
